@@ -1,0 +1,12 @@
+#image{
+    float: left;
+    height:800px;
+}
+body{
+    text-align: center;
+    background-color: rgb(126, 126, 159);
+    background-repeat: no-repeat;
+}
+ input{
+    padding: o 4rem;
+ }

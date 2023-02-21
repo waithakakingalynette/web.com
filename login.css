@@ -1,0 +1,9 @@
+#image{
+    float: left;
+    height: 800px;
+}
+   body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-color: rgb(126, 126, 159);
+   }
